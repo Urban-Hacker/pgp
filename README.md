@@ -1,6 +1,8 @@
 # PGP key
 
-You an find here my PGP key in case you need it:
+You an find here my PGP keys:
+
+## Main key
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
@@ -8,16 +10,17 @@ Hash: SHA256
 
 Current Date: 05.28.24
 Current Bitcoin block hash: 00000000000000000003552ee23252c8600bb401df78b4dac2128df66d67e1d1
-Fingerprint:                33CB DE36 790B 4D3E C294  8F17 9368 73B9 DA51 965A
- 
+Main key Fingerprint:                33CB DE36 790B 4D3E C294 8F17 9368 73B9 DA51 965A
+GitHub Key Fingerprint:              C113 D3E9 761C 3D66 B420 928D 73DA DED3 E837 15C6
+
 Twitter Profile:            realurbanhacker
 GitHub:                     https://github.com/Urban-Hacker
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQzy942eQtNPsKUjxeTaHO52lGWWgUCZlZOPwAKCRCTaHO52lGW
-WluTAQDoeq1SXcm5u/XryEdH737lLKsesfnmjPlHxS1nHOIAaQEA0eimvzAlfJVx
-ASMMxzVbtDJaMe9a03beFZzxJzPFowA=
-=P2e4
+iHUEARYIAB0WIQQzy942eQtNPsKUjxeTaHO52lGWWgUCZlbxIgAKCRCTaHO52lGW
+WtH/AP4pLwWK6NiLNbetEy7408txT/HvS9jsd3fOadKQkeNJkQEAqNXkcSL3A+wQ
+0VRqCGvZxB0o9LMgwjU/TjbPSkgaGw0=
+=JLEC
 -----END PGP SIGNATURE-----
 ```
 
@@ -35,4 +38,24 @@ UsEuqmDxIyefbQs=
 =MveW
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-another change a
+
+## GitHub key
+
+This is **only** used to sign commit on github and nothing else:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZlbsmhYJKwYBBAHaRw8BAQdAhsmDHZcu8PgrvI8tGqsKZzfslUHXiCYCT4hS
+e3GytSu0PVVyYmFuIEdpdEh1YiA8OTIyNzU3MDkrVXJiYW4tSGFja2VyQHVzZXJz
+Lm5vcmVwbHkuZ2l0aHViLmNvbT6IkAQTFggAOBYhBMET0+l2HD1mtCCSjXPa3tPo
+NxXGBQJmVuyaAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEHPa3tPoNxXG
+qd4BALICQh443dlvnThfYaMODaSOHFS8mfMsBohSUs1cBuNJAQDYf69nGhZR6yeR
+VVTLM0br4tlm76VUdlN0fHz6rNsBC7g4BGZW7JoSCisGAQQBl1UBBQEBB0AyrzNN
+d/OPWzTlacWSqyK72HqmqWCUGCtKa4GsngenagMBCAeIeAQYFggAIBYhBMET0+l2
+HD1mtCCSjXPa3tPoNxXGBQJmVuyaAhsMAAoJEHPa3tPoNxXGfRQBAKtYNhkDB9Jp
+2ps8wpt4Eqm8Gu8VId77a6pmDvZn5kkPAQCizCi4VB69+PhQavl+A52sawWMUEFs
+SXounbFKVcldCg==
+=wD2j
+-----END PGP PUBLIC KEY BLOCK-----
+```
