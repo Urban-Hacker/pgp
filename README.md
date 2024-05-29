@@ -2,7 +2,7 @@
 
 You an find here my PGP keys:
 
-## Main key
+## Main key
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
