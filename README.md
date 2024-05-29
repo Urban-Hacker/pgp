@@ -1,4 +1,4 @@
-# PGP key
+# PGP keys
 
 You an find here my PGP keys:
 
