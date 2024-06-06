@@ -8,19 +8,20 @@ You an find here my PGP keys:
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Current Date: 05.28.24
-Current Bitcoin block hash: 00000000000000000003552ee23252c8600bb401df78b4dac2128df66d67e1d1
+Current Date: 06.06.24
+Current Bitcoin block hash: 000000000000000000006fc8cc44418b57d80792367dad0076ca95b19103987e
 Main key Fingerprint:                33CB DE36 790B 4D3E C294 8F17 9368 73B9 DA51 965A
 GitHub Key Fingerprint:              C113 D3E9 761C 3D66 B420 928D 73DA DED3 E837 15C6
 
 Twitter Profile:            realurbanhacker
+Telegram:                   urbanha
 GitHub:                     https://github.com/Urban-Hacker
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQzy942eQtNPsKUjxeTaHO52lGWWgUCZlbxIgAKCRCTaHO52lGW
-WtH/AP4pLwWK6NiLNbetEy7408txT/HvS9jsd3fOadKQkeNJkQEAqNXkcSL3A+wQ
-0VRqCGvZxB0o9LMgwjU/TjbPSkgaGw0=
-=JLEC
+iHUEARYIAB0WIQQzy942eQtNPsKUjxeTaHO52lGWWgUCZmGHrgAKCRCTaHO52lGW
+WhCBAQDTXJG26ZQxPDXE4ZMfsZ96YcynRMxFGjkWABcjAdw/IAEAn84mBiqvyKTt
+8p21tBGIQZupipILiSaCp7snRfdVgQI=
+=N03P
 -----END PGP SIGNATURE-----
 ```
 
